@@ -6,3 +6,4 @@ function retFun(num1, num2){
 let funResult = retFun(22, 33);
 
 console.log(funResult);
+
